@@ -1,0 +1,14 @@
+body{
+    overflow: hidden;
+}
+
+.icon{
+    font-size: 32px;
+}
+.form-floating>.form-control {
+padding: 10px !important;
+}
+.form-floating>label {
+    position: absolute;
+    top: 0;
+    left: 31px !important;}
